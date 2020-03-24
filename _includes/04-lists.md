@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+I teach:
+* Technology
+* P.E.
+
+I coach:
+* Boys' Soccer
+* U-6 Girls' Soccer
