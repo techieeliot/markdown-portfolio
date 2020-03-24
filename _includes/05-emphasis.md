@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Javascript* is my favorite thing to learn right now. 
+
+_Do you like *JavaScript*?_
